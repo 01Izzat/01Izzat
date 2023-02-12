@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Html, Css, Scss, JavaScript
 - 💞️ I’m looking to collaborate on Fronted
-- 📫 How to search me t.me/Izzatilla2801
+- 📫 How to search me t.me/zzatilla001
 
 <!---
 01Izzat/01Izzat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
