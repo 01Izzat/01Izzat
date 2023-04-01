@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Izzatilla
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Html, Css, Scss, JavaScript
+- 🌱 I’m currently learning Html, Css, Scss, JavaScript, React
 - 💞️ I’m looking to collaborate on Fronted
 - 📫 How to search me t.me/zzatilla001
 
