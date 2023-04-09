@@ -25,11 +25,10 @@
   <img src="https://www.svgrepo.com/show/452210/git.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/475654/github-color.svg" title="Gitgub" **alt="Githib" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;   
 </div>
 
-
+##My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=01Izzat&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01Izzat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
