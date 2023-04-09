@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/452210/git.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/512317/github-142.svg" title="Gitgub" **alt="Githib" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/473620/github.svg" title="Gitgub" **alt="Githib" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
