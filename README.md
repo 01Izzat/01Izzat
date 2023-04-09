@@ -1,13 +1,12 @@
-- 👋 Hi, I’m Izzatilla
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Html, Css, Scss, JavaScript, React
-- 💞️ I’m looking to collaborate on Fronted
-- 📫 How to search me t.me/zzatilla001
+## Izzatilla Tursunmurodov | Fronted developer
 
-<!---
-01Izzat/01Izzat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer)
+
+### Follow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/zzatilla001)
+[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/izzatilla001_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
